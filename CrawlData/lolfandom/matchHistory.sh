@@ -1,0 +1,1 @@
+scrapy crawl lolfandom -o matchHistory.csv
